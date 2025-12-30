@@ -6,4 +6,4 @@ Branch: Develop
 
 This is sub developer page to work on and push to main Repository
 
-Education: BSc(Hons), MSc,PhD, FRM,CQF
+Education: BSc(Hons), MSc,PhD, FRM,CQF,Python
